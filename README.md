@@ -1,1 +1,1 @@
-![Header Image](header-update.png)
+![Header Image](header.png)
